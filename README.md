@@ -1,6 +1,6 @@
 # MinikCoder: Vision-Based Jigsaw Puzzle and Drawing Application
 
-MinikCoder, çocukların motor becerilerini ve el-göz koordinasyonunu geliştirmek üzere tasarlanmış, bilgisayarla görü (computer vision) tabanlı interaktif bir eğitim yazılımıdır. MediaPipe ve OpenCV teknolojilerini kullanarak temassız bir kullanıcı deneyimi sunar.
+Çocukların motor becerilerini ve el-göz koordinasyonunu geliştirmek üzere tasarlanmış, bilgisayarla görü (computer vision) tabanlı interaktif bir eğitim yazılımıdır. MediaPipe ve OpenCV teknolojilerini kullanarak temassız bir kullanıcı deneyimi sunar.
 
 ---
 
